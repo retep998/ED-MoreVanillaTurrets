@@ -106,6 +106,10 @@
         <basePowerConsumption>390</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>8</heatPerSecond>
+      </li>
     </comps>
     <description>A more poweful variant of an automated turret, longer dual barrels provide increased range and for greater burst, explodes when destroyed.</description>
     <size>(1,1)</size>
@@ -166,6 +170,10 @@
         <basePowerConsumption>420</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>8</heatPerSecond>
+      </li>
     </comps>
     <description>A highly calibrated gun turret, with advanced optics allows to deliver a single but precise shot at fairly long distances.</description>
     <size>(1,1)</size>
@@ -225,6 +233,10 @@
         <basePowerConsumption>420</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>8</heatPerSecond>
+      </li>
     </comps>
     <description>Shredder turret is designed for close range, explosion when destroyed is minimal thus making it a perfect choice for indoor defense, the only downside is that it takes more space than an ordinary variant.</description>
     <size>(2,2)</size>
@@ -285,6 +297,10 @@
         <basePowerConsumption>1000</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>20</heatPerSecond>
+      </li>
     </comps>
     <description>Fortified minigun tower that fires continuously, very durable but power hungry.
 Its high placement allows it for a much longer range, but unfortunately due to that it can't aim directly down or close to itself and can't be placed indoors. Watch out for a sizable explosion when destroyed.</description>
@@ -418,6 +434,10 @@ Its high placement allows it for a much longer range, but unfortunately due to t
         <basePowerConsumption>1400</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>28</heatPerSecond>
+      </li>
     </comps>
     <description>A magnetic catapult that launches projectiles with greater velocity and higher accuracy and ultimately much larger blast radius thanks to its 5 burst mode.
 Watch out for a huge explosion when destroyed.</description>
